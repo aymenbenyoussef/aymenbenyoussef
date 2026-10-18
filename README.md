@@ -22,14 +22,6 @@ I'm interested in agentic AI, Big Data, Machine Learning, Deep Learning and Data
 ![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
 
-## 🚀 Featured projects
-
-- **Incident Triage Copilot** – a local AI agent (Ollama, MCP) that investigates simulated production outages and writes incident reports. It has a secured gateway with role-based access, rate limiting, human-approved actions, an audit log and prompt-injection defences.
-- **AI Data Analyst Agent** – turns analytical questions into SQL using a Groq model and RAG over the database schema, then returns a result table with a written summary (Streamlit, SQL Server).
-- **Voice Spoofing Detection** – a PyTorch audio classifier using MFCC and Mel-spectrogram features to tell real voices from synthetic or recorded ones.
-- **Data Warehouse – Used-Car Price Trends** – ETL with Talend and Python, MySQL storage and multidimensional analysis in Power BI.
-- **Kubernetes CI/CD DevOps Platform** – a Kubernetes cluster with an automated CI/CD pipeline built with Vagrant, Ansible, Jenkins and Docker.
-
 ## 📫 Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/aymen-ben-youssef-75135629b)
