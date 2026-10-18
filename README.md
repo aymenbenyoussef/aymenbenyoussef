@@ -2,7 +2,7 @@
 
 **Data & AI Engineering student** at the Faculty of Sciences of Sfax, Tunisia 🇹🇳
 
-I'm interested in data pipelines, Big Data, Machine Learning, Deep Learning and agentic AI. I'm looking for an internship in data and AI engineering where I can work on real-world projects.
+I'm interested in agentic AI, Big Data, Machine Learning, Deep Learning and Data modeling. I'm looking for an internship in data and AI engineering where I can work on real-world projects.
 
 ## 🛠️ Skills
 
